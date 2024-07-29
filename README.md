@@ -1,5 +1,6 @@
-# API_portfolio_Olianych
+# API_SQL_portfolio
 
 Portfolio with API tests
-Here you may find examples of API testing.
-This collection was created for testing Pet Store from Swagger.
+Here you may find examples of API testing (which was created for testing Pet Store from Swagger) 
+and SQL testing (based on HR database from Oracle).
+
